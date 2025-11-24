@@ -1,5 +1,5 @@
 FROM alpine:latest
-RUN apk update && apk upgrade && apk add --no-cache add \
+RUN apk update && apk upgrade && apk --no-cache add \
     bash \
     curl \
     git \
