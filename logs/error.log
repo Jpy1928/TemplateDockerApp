@@ -1,0 +1,4 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 01 11:42:26.689072 2025] [lbmethod_heartbeat:notice] [pid 1:tid 1] AH02282: No slotmem from mod_heartmonitor
+[Mon Dec 01 11:42:26.692393 2025] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Unix) PHP/8.2.29 configured -- resuming normal operations
+[Mon Dec 01 11:42:26.692825 2025] [core:notice] [pid 1:tid 1] AH00094: Command line: 'httpd -D FOREGROUND'
